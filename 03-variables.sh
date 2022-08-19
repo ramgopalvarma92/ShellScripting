@@ -12,3 +12,4 @@ SUM=$((2+3))
 echo Two plus Three = $SUM
 
 
+echo Variable A from CLI = ${A}
